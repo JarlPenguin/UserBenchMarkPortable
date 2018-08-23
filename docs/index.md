@@ -5,7 +5,7 @@ Welcome to the UserBenchMark Portable Homepage! Here you will find resources and
 - [GitHub](https://github.com/JarlPenguin/UserBenchMarkPortable)
 - [Discord Server](https://discord.gg/VVuZHqT)
 - [PortableApps Resource Page](https://portableapps.com/node/58071)
-- This app's [help.html](https://github.com/JarlPenguin/UserBenchMarkPortable/docs/help.html)
+- This app's [help.html](https://github.com/JarlPenguin/UserBenchMarkPortable/tree/master/docs/help.html)
 
 ## Downloads
 - [Latest Version](https://github.com/JarlPenguin/UserBenchMarkPortable/releases/tag/2.9.3.999)
