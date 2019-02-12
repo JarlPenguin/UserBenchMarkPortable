@@ -8,5 +8,5 @@ Welcome to the UserBenchMark Portable Homepage! Here you will find resources and
 - This app's [help.html](https://github.com/JarlPenguin/UserBenchMarkPortable/tree/master/docs/help.html)
 
 ## Downloads
-- [Latest Version](https://github.com/JarlPenguin/UserBenchMarkPortable/releases/download/2.9.4.999/UserBenchMarkPortable_2.9.5.0_Dev_Test_9_English.paf.exe)
+- [Latest Version](https://github.com/JarlPenguin/UserBenchMarkPortable/releases/download/2.9.4.99910/UserBenchMarkPortable_2.9.5.0_Dev_Test_10_English.paf.exe)
 - [Legacy Versions](https://github.com/JarlPenguin/UserBenchMarkPortable/releases)
